@@ -1,4 +1,3 @@
 # myrepo
 PowerShell Scripts
--favorite food is pizza
-get-wmi win32_computersystem
+get-wmi win32_computersystem | ft -autosize
